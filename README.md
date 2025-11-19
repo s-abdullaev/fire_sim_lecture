@@ -2,16 +2,14 @@
 
 This repository contains a tutorial on fire simulation using PyTorch, based on [PyTorchFire](https://github.com/xiazeyu/PyTorchFire).
 
-- `fire_sim_tutorial.ipynb` - Fire spread simulation with PyTorchFire
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s-abdullaev/fire_sim_lecture/blob/main/fire_sim_tutorial.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s-abdullaev/fire_sim_lecture/blob/main/fire_sim_tutorial.ipynb) `fire_sim_tutorial.ipynb` - Fire spread simulation with PyTorchFire
 
 
 ### Basic Data Analysis using Python
 
-- `intro_numpy_pandas.ipynb` - Primer notebook covering NumPy and Pandas essentials  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s-abdullaev/fire_sim_lecture/blob/main/intro_numpy_pandas.ipynb)
-- `geopandas.ipynb` - Exercises exploring vector data processing with GeoPandas  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s-abdullaev/fire_sim_lecture/blob/main/geopandas.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s-abdullaev/fire_sim_lecture/blob/main/intro_numpy_pandas.ipynb) `intro_numpy_pandas.ipynb` - Primer notebook covering NumPy and Pandas essentials  
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s-abdullaev/fire_sim_lecture/blob/main/geopandas.ipynb) `geopandas.ipynb` - Exercises exploring vector data processing with GeoPandas  
+  
 
 ### Reference
 
