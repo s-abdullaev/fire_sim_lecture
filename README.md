@@ -2,21 +2,21 @@
 
 This repository contains a tutorial on fire simulation using PyTorch, based on [PyTorchFire](https://github.com/xiazeyu/PyTorchFire).
 
-## Open in Google Colab
+- `fire_sim_tutorial.ipynb` - Fire spread simulation with PyTorchFire
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s-abdullaev/fire_sim_lecture/blob/main/fire_sim_tutorial.ipynb)
 
-Click the button below to open the tutorial notebook in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s-abdullaev/fire_sim_lecture/blob/main/fire_sim_tutorial.ipynb)
+### Basic Data Analysis using Python
 
-## Contents
+- `intro_numpy_pandas.ipynb` - Primer notebook covering NumPy and Pandas essentials  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s-abdullaev/fire_sim_lecture/blob/main/intro_numpy_pandas.ipynb)
+- `geopandas.ipynb` - Exercises exploring vector data processing with GeoPandas  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/s-abdullaev/fire_sim_lecture/blob/main/geopandas.ipynb)
 
-- `fire_sim_tutorial.ipynb` - Interactive tutorial notebook
-- `PyTorchFire.pdf` - Reference material
-
-## Reference
+### Reference
 
 This tutorial is based on PyTorchFire paper and IPython notebooks provided in original repository:
 
-**Paper:** [PyTorchFire: A GPU-accelerated wildfire simulator with Differentiable Cellular Automata](https://www.sciencedirect.com/science/article/pii/S1364815225000854)
+- [PyTorchFire: A GPU-accelerated wildfire simulator with Differentiable Cellular Automata](https://www.sciencedirect.com/science/article/pii/S1364815225000854) ([https://github.com/xiazeyu/PyTorchFire](https://github.com/xiazeyu/PyTorchFire))
 
-**Repository:** [https://github.com/xiazeyu/PyTorchFire](https://github.com/xiazeyu/PyTorchFire)
+- [Introduction to GIS Programming](https://geog-312.gishub.org/index.html) by Prof. Qiusheng Wu – open-access lectures, labs, and references that complement the geospatial notebooks in this repo.
